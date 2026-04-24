@@ -1,0 +1,7 @@
+[account]
+username = 你的账号
+password = 你的密码
+
+[network]
+essid = SUES
+apname = train_5_2F_11
